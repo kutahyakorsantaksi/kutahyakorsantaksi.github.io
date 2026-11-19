@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kütahya Korsan Taksi | Zafer Havalimanı ve Kaplıcalar</title>
+  <link href="https://kutahyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://kutahyakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://kutahyakorsantaksi.github.io/</id>
+  <updated>2026-11-19T18:21:09.910Z</updated>
+  <author><name>Kütahya Korsan Taksi</name></author>
+  <entry>
+    <title>Kütahya Korsan Taksi | Zafer Havalimanı ve Kaplıcalar</title>
+    <link href="https://kutahyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://kutahyakorsantaksi.github.io/</id>
+    <updated>2026-11-19T18:21:09.910Z</updated>
+    <summary>Kütahya korsan taksi: Zafer Havalimanı merkezden 45 km, Aizanoi antik kenti, Simav, Emet ve Gediz kaplıcaları, Tavşanlı ve Domaniç yolu. Ücret baştan.</summary>
+  </entry>
+</feed>
